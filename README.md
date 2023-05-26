@@ -2,4 +2,7 @@
 Python Examples
 
 ## Python REST APIs With Flask, Connexion, and SQLAlchemy
-- Resource: https://realpython.com/flask-connexion-rest-api/
+- https://realpython.com/flask-connexion-rest-api/
+
+## Jinja Templating (Flask, Django)
+- https://realpython.com/primer-on-jinja-templating/
