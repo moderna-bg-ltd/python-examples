@@ -9,3 +9,6 @@ Python Examples
 
 ## Python Microservices by Building an App Using Django, Flask, and React
 - https://www.freecodecamp.org/news/python-microservices-course/
+
+## Microservices examples
+- https://python-microservices.github.io/tutorials/examples/
