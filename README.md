@@ -6,3 +6,6 @@ Python Examples
 
 ## Jinja Templating (Flask, Django)
 - https://realpython.com/primer-on-jinja-templating/
+
+## Python Microservices by Building an App Using Django, Flask, and React
+- https://www.freecodecamp.org/news/python-microservices-course/
